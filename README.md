@@ -1,2 +1,42 @@
-# Employee-Attrition-Prediction
-Predict Employee Attrition
+Employee Attrition Prediction
+
+This project predicts employee attrition, using 51 features namely:
+Age
+BusinessTravel
+DailyRate
+Department
+DistanceFromHome
+Education
+EducationField
+EmployeeCount
+EmployeeNumber
+EnvironmentSatisfaction
+Gender
+HourlyRate
+JobInvolvement
+JobLevel
+JobRole
+JobSatisfaction
+MaritalStatus
+MonthlyIncome
+MonthlyRate
+NumCompaniesWorked
+Over18
+OverTime
+PercentSalaryHike
+PerformanceRating
+RelationshipSatisfaction
+StandardHours
+StockOptionLevel
+TotalWorkingYears
+TrainingTimesLastYear
+WorkLifeBalance
+YearsAtCompany
+YearsInCurrentRole
+YearsSinceLastPromotion
+YearsWithCurrManager
+Attrition_to_num
+
+and the target variable Y:
+
+Attrition
